@@ -1,0 +1,14 @@
+# Friendly Open License
+
+This project is open and free to use.
+
+You are welcome to:
+- Use it for personal, educational, or commercial purposes
+- Modify it and build upon it
+- Share it with others
+
+No attribution is required, but appreciated.
+
+**Disclaimer:** This project is provided “as-is” without any warranties. Use it at your own risk.
+
+© 2025 Jeremy Ndirangu
