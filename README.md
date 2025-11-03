@@ -89,7 +89,7 @@ For a horizontally laid cylindrical tank:
 ![Serial Monitor Output](./Image/Serial_monitor.png)
 
 ### 🧩 Schematic (Eagle CAD)
-![Circuit Schematic](Schematics/Water_level_schematic_pdf.pdf
+[`Circuit Schematic`](Schematics/Water_level_schematic_pdf.pdf
 )
 
 ### ⚙️ Custom PCB Layout
